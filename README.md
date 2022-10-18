@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SandhyaSah22
 - 👀 I’m interested in Learnng new tech
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on  with an upcoming project...
+- 💞️ I’m looking to collaborate with an upcoming project...
 - 📫 How to reach me sandhya.sah@yahoo.com
 
 <!---
