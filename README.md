@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SandhyaSah22
+- 👋 Hi, I’m @Sandhya Sah
 - 👀 I’m interested in Learnng new tech
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate with an upcoming project...
